@@ -1,0 +1,19 @@
+<?xml version="1.0"?> 
+<info>
+	<id>gallery2</id>
+	<name>Pictures2</name>
+	<licence>AGPL</licence>
+	<author>Tree Florian (original by Robin Appelman)</author>
+	<require>5.0</require>
+	<shipped>false</shipped>
+	<description>Adapted Dedicated pictures application</description>
+	<standalone/>
+	<default_enable/>
+	<types>
+		<!-- update thumbnails when saving file -->
+		<filesystem/>
+	</types>
+	<public>
+		<gallery>sharing.php</gallery>
+	</public>
+</info>
